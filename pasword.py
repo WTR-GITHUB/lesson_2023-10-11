@@ -48,22 +48,3 @@ while True:
     else:
         log_count += 1
         print(f"No such user! Login atempt: {log_count}")
-
-    
-    # user_dict.keys()!= user_input or user_dict[user_input] != user_pass:
-    #     log_count += 1
-    #     print(f"No such user or pasword incorect. Login atempt: {log_count}")
-    # else:
-    #     print(f"Hello {user_input}")
-    #     break
-
-
-    # if user_dict["id"] != user_input or user_dict["pasword"] != user_pass:
-    #     log_count += 1
-    #     print(f"No such user or pasword incorect. Login atempt: {log_count}")
-
-    # else:
-    #     print(f"Hello {user_input}")
-    #     break
-
-    
